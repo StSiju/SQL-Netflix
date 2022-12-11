@@ -1,0 +1,12 @@
+1.	How many movies/shows are there on Netflix?
+2.	How many actors acted in each movie/show?
+3.	In what year was the most movies/show released?
+4.	Which top 5 actors have the most features in both movies and shows
+5.	Fetch the director who has most movies/shows to his name.
+6.	Fetch the years that have the most and least genres released
+7.	What is the ratio of Movies to Shows on Netflix?
+8.	List the top 3 movies with the most actors
+9.	Fetch the movie/show that have the most IMDB score and most IMDB votes
+10.	List all movies/shows that have comedy listed in their genre 
+11.	How many movies/shows has Robert De Niro casted in?
+12.	Identify the number actors that has only acted in one movie
